@@ -45,9 +45,11 @@ generate_qr_code(website_link, "website_qr.png")
 
 3. Run the script:
 ```
-python script.py
+python main.py
 ```
-4. The generated QR code image (`website_qr.png`) will be saved in the current directory.
+4. The generated QR code image (`website_qr.png`) will be saved in the current directory
+
+<hr>
 
 ## Customization
 You can modify the script to:
